@@ -1,0 +1,17 @@
+=== Booking Confirmation ===
+Booking ID: HO794175YGN
+Type: hotel
+Service: Taj Hotel (Goa)
+
+Price: ₹8500
+Travel Date: Thu Jul 10 2025
+
+--- Passenger Details ---
+PUJIT SHAH, Age: 19, Gender: male
+
+--- Contact Info ---
+Email: keyur1@gmail.com
+Mobile: 1236547896
+
+Payment Status: pending
+Generated On: 10/7/2025, 6:36:34 pm

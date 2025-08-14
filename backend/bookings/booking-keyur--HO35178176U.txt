@@ -1,0 +1,18 @@
+=== Booking Confirmation ===
+Booking ID: HO35178176U
+Type: hotel
+Service: Agra Grand Palace (Agra)
+
+Price: ₹2807
+Travel Date: Fri Jul 11 2025
+
+--- Passenger Details ---
+PUJIT SHAH, Age: 19, Gender: male
+
+
+--- Contact Info ---
+Email: keyur1@gmail.com
+Mobile: 1236547896
+
+Payment Status: pending
+Generated On: 11/7/2025, 8:52:31 pm

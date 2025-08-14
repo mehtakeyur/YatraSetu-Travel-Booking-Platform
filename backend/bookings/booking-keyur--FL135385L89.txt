@@ -1,0 +1,9 @@
+@echo off
+REM Navigate to your Django project folder
+cd /d C:\Users\hp\OneDrive\Desktop\stock_insight
+
+REM Run the manage.py command with your virtual environment's Python
+C:\Users\hp\OneDrive\Desktop\stock_insight\venv\Scripts\python.exe manage.py update_prices
+
+REM Optional: Log output
+echo [%date% %time%] Ran update_prices >> update_prices_log.txt

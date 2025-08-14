@@ -1,0 +1,18 @@
+=== Booking Confirmation ===
+Booking ID: HO2947988BW
+Type: hotel
+Service: Chandigarh Heritage Residency (Chandigarh)
+
+Price: ₹3057
+Travel Date: Tue Jul 15 2025
+
+--- Passenger Details ---
+Mehta Keyur, Age: 25, Gender: male
+
+
+--- Contact Info ---
+Email: keyur@gmail.com
+Mobile: 1259637812
+
+Payment Status: pending
+Generated On: 15/7/2025, 1:44:54 pm

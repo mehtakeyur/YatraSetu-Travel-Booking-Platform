@@ -1,0 +1,18 @@
+=== Booking Confirmation ===
+Booking ID: HO0132340UG
+Type: hotel
+Service: Mangalore Hillview Retreat (Mangalore)
+
+Price: ₹2525
+Travel Date: Wed Jul 16 2025
+
+--- Passenger Details ---
+Mehta Keyur, Age: 25, Gender: male
+
+
+--- Contact Info ---
+Email: keyur@gmail.com
+Mobile: 1259637812
+
+Payment Status: pending
+Generated On: 16/7/2025, 9:36:53 pm

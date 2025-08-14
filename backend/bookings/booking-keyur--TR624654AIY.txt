@@ -1,0 +1,18 @@
+=== Booking Confirmation ===
+Booking ID: TR624654AIY
+Type: train
+Service: Superfast Express (Chennai → Ahmedabad)
+
+Price: ₹2343
+Travel Date: Thu Jul 10 2025
+
+--- Passenger Details ---
+PUJIT SHAH, Age: 19, Gender: male, Seat: 27C
+
+
+--- Contact Info ---
+Email: keyur1@gmail.com
+Mobile: 1236547896
+
+Payment Status: pending
+Generated On: 10/7/2025, 7:23:44 pm
